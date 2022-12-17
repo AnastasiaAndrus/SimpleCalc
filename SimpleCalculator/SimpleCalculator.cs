@@ -6,14 +6,16 @@ namespace SimpleCalculator
     {
         public static int Add(int a, int b)
         {
-            int result = a + b;
+            
+            int result = 0 + 0;
             return result;
 
         }
 
         public static int Sub(int a, int b)
         {
-            int result = a - b;
+            
+            int result = 0 - 0;
             return result;
 
         }
